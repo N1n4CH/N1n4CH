@@ -1,6 +1,6 @@
-# Hi, I'm Nina 👋
+# Hi, I'm Nina 👩🏽‍💻✨
 
-Software developer with a focus on AI/ML, generative AI applications, and full-stack web development.
+Software developer with a focus on AI/ML, especially generative AI, full-stack web development as well as blockchain.
 
 ## 🧠 AI / Machine Learning
 - [generative-ai-applications](https://github.com/N1n4CH/generative-ai-applications)
